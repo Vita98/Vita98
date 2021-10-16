@@ -20,7 +20,7 @@
 
 
 
-
+<!--
 
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/49589259/137597359-1a821f5f-81b4-4056-aad0-ce19cadba662.png"></img>
@@ -42,7 +42,7 @@
 <br><br>
 <h2 align="center">Apple Developer Academy Student</h2>
 <br><br><br><br><br>
-
+-->
 
 
 ### :zap: Github Stats
