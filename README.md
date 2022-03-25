@@ -18,32 +18,15 @@
   <a href="https://www.linkedin.com/in/vitandrea-sorino-0b4650174/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-
-
-<!--
-
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/49589259/137597359-1a821f5f-81b4-4056-aad0-ce19cadba662.png"></img>
-
-<br>
-<br>
-<br>
+### 🖥️ Apple Developer Academy Student
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49589259/137597406-c9bd5d9b-3bc4-4d61-907d-95709e034968.gif"></img>
+  <img src="https://user-images.githubusercontent.com/49589259/137597852-61f8e681-e15e-4a73-9f55-09d957b10603.png"></img>
+</p><br/>
+
+### :fire: WWDC19 Scholarship Winner
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49589259/137597359-1a821f5f-81b4-4056-aad0-ce19cadba662.png"></img>
 </p>
-<h2 align="center">WWDC19 Scholarship Winner</h2>
-
-<br><br><br><br><br>
-
-
-
-<br><br><br>
-<img align="left" src="https://user-images.githubusercontent.com/49589259/137597852-61f8e681-e15e-4a73-9f55-09d957b10603.png"></img>
-<br><br>
-<h2 align="center">Apple Developer Academy Student</h2>
-<br><br><br><br><br>
--->
-
 
 ### :zap: Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Vita98&show_icons=true&theme=radical"></img>
