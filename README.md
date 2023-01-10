@@ -6,9 +6,6 @@
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Vita98"></img>
-  <img align="center" src="https://badges.pufler.dev/repos/Vita98"></img>
-  <img align="center" src="https://badges.pufler.dev/commits/monthly/Vita98"></img>
-  <img align="center" src="https://badges.pufler.dev/years/Vita98"></img>
 </p>
 
 <p align="center">
