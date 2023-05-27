@@ -25,23 +25,7 @@
   <img src="https://user-images.githubusercontent.com/49589259/137597359-1a821f5f-81b4-4056-aad0-ce19cadba662.png"></img>
 </p>
 
-### :zap: Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vita98&show_icons=true&theme=radical"></img>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vita98&show_icons=true&theme=radical"></img>
-
-
-<!--
-**Vita98/Vita98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :zap: Github Stat
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vita98&show_icons=true&theme=radical"></img>
+</p>
